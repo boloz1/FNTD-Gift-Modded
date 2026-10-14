@@ -11799,7 +11799,7 @@
             }
         ]
     },
-    "Bear5": {
+    "Bear5 Boi": {
         "Type": "bear5",
         "Image": "rbxassetid://120449923695517",
         "Rarity": "Nightmare",
@@ -11816,7 +11816,7 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 222,
+                "Damage": 111,
                 "Cooldown": 0.25,
                 "Slow": 0.95,
                 "SlowTime": 1
@@ -11824,7 +11824,7 @@
             {
                 "Price": 777,
                 "Range": 22,
-                "Damage": 444,
+                "Damage": 222,
                 "Cooldown": 0.25,
                 "Slow": 0.95,
                 "SlowTime": 1
@@ -11832,7 +11832,7 @@
             {
                 "Price": 999,
                 "Range": 22,
-                "Damage": 888,
+                "Damage": 333,
                 "Cooldown": 0.25,
                 "Slow": 0.95,
                 "SlowTime": 1
@@ -11840,7 +11840,7 @@
             {
                 "Price": 1111,
                 "Range": 22,
-                "Damage": 1666,
+                "Damage": 555,
                 "Cooldown": 0.25,
                 "Slow": 0.95,
                 "SlowTime": 1
