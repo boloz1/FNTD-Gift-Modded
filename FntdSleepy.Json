@@ -11799,11 +11799,11 @@
             }
         ]
     },
-    "Bear5": {
-        "Type": "bear5",
+    "Bear5 [ARG UNIT] ": {
+        "Type": "bear5 [AOE] ",
         "Image": "rbxassetid://120449923695517",
-        "Rarity": "Nightmare",
-        "PlacePrice": 555,
+        "Rarity": "Uncommon",
+        "PlacePrice": 677,
         "Offset": 0,
         "Max": 5,
         "Passive": {"Name": "bear5", "Description": "Attacks slow enemies by bear5%"},
@@ -11816,7 +11816,7 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 120,
+                "Damage": 222,
                 "Cooldown": 0.25,
                 "Slow": 0.95,
                 "SlowTime": 1
@@ -11824,7 +11824,7 @@
             {
                 "Price": 777,
                 "Range": 22,
-                "Damage": 150,
+                "Damage": 444,
                 "Cooldown": 0.25,
                 "Slow": 0.95,
                 "SlowTime": 1
@@ -11832,7 +11832,7 @@
             {
                 "Price": 999,
                 "Range": 22,
-                "Damage": 180,
+                "Damage": 888,
                 "Cooldown": 0.25,
                 "Slow": 0.95,
                 "SlowTime": 1
@@ -11840,7 +11840,7 @@
             {
                 "Price": 1111,
                 "Range": 22,
-                "Damage": 200,
+                "Damage": 1666,
                 "Cooldown": 0.25,
                 "Slow": 0.95,
                 "SlowTime": 1
