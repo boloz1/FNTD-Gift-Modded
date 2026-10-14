@@ -11802,8 +11802,8 @@
     "Bear5": {
         "Type": "bear5",
         "Image": "rbxassetid://120449923695517",
-        "Rarity": "Apex",
-        "PlacePrice": 677,
+        "Rarity": "Nightmare",
+        "PlacePrice": 555,
         "Offset": 0,
         "Max": 5,
         "Passive": {"Name": "bear5", "Description": "Attacks slow enemies by bear5%"},
