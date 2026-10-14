@@ -11799,8 +11799,8 @@
             }
         ]
     },
-    "Bear5 [ARG UNIT] ": {
-        "Type": "bear5 [AOE] ",
+    "Bear5 ARG UNIT": {
+        "Type": "bear5 AOE",
         "Image": "rbxassetid://120449923695517",
         "Rarity": "Uncommon",
         "PlacePrice": 677,
