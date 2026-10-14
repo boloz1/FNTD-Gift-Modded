@@ -10968,7 +10968,7 @@
    "8-Bit OMC": {
         "Type": "AOE",
         "Image": "rbxassetid://78679487650695",
-        "Rarity": "Nightmare",
+        "Rarity": "Forgotten",
         "PlacePrice": 11340,
         "Offset": 0,
         "Max": 1,
@@ -11801,7 +11801,7 @@
     },
     "Bear5": {
         "Type": "bear5",
-        "Image": "rbxassetid://111268061255623",
+        "Image": "rbxassetid://120449923695517",
         "Rarity": "Nightmare",
         "PlacePrice": 555,
         "Offset": 0,
