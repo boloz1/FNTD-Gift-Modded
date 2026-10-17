@@ -5933,21 +5933,21 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.35,
+                "DamageBoost": 1.35
             },
             {
                 "Price": 1250,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.45,
+                "DamageBoost": 1.45
             },
             {
                 "Price": 1500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.55,
+                "DamageBoost": 1.55
             }
         ]
     },
@@ -6473,7 +6473,7 @@
                 "Price": 30000,
                 "Range": 40,
                 "Damage": 15000,
-                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 1},
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "WalkSpeed": 9,
                 "Health": 25000,
                 "Cooldown": 1.66,
@@ -6485,7 +6485,7 @@
                 "Price": 40000,
                 "Range": 45,
                 "Damage": 25000,
-                "Unit": {"Necro Spawn": 2, "Necro Spawn 2": 1},
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "WalkSpeed": 9,
                 "Health": 35000,
                 "Cooldown": 1.33,
@@ -6497,7 +6497,7 @@
                 "Price": 50000,
                 "Range": 50,
                 "Damage": 30000,
-                "Unit": {"Necro Spawn": 3, "Necro Spawn 2": 2},
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "WalkSpeed": 9,
                 "Health": 50000,
                 "Cooldown": 1.33,
