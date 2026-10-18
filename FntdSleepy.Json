@@ -13370,7 +13370,6 @@
                 "Range": 28,
                 "Damage": 60000,
                 "Cooldown": 5,
-                "RangeBoost": 1.2,
                 "Mini Fossilized Puppet Turret1": {"Range": 28, "Damage": 1000, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret2": {"Range": 28, "Damage": 1000, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret3": {"Range": 28, "Damage": 1000, "Cooldown": 0.25}
@@ -13380,7 +13379,6 @@
                 "Range": 31,
                 "Damage": 70000,
                 "Cooldown": 5,
-                "RangeBoost": 1.2,
                 "Mini Fossilized Puppet Turret1": {"Range": 31, "Damage": 1400, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret2": {"Range": 31, "Damage": 1400, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret3": {"Range": 31, "Damage": 1400, "Cooldown": 0.25}
@@ -13390,7 +13388,6 @@
                 "Range": 33,
                 "Damage": 85000,
                 "Cooldown": 5,
-                "RangeBoost": 1.2,
                 "Mini Fossilized Puppet Turret1": {"Range": 33, "Damage": 1700, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret2": {"Range": 33, "Damage": 1700, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret3": {"Range": 33, "Damage": 1700, "Cooldown": 0.25}
@@ -13400,7 +13397,6 @@
                 "Range": 35,
                 "Damage": 110000,
                 "Cooldown": 5,
-                "RangeBoost": 1.2,
                 "Mini Fossilized Puppet Turret1": {"Range": 35, "Damage": 2200, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret2": {"Range": 35, "Damage": 2200, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret3": {"Range": 35, "Damage": 2200, "Cooldown": 0.25}
@@ -15303,8 +15299,7 @@
                 "Cooldown": 0.25,
                 "Wither": 1.10,
                 "ShinyWither": 1.10,
-                "WitherTime": 1,
-                "DamageBoost": 1.30
+                "WitherTime": 1
             },
             {
                 "Price": 50000,
@@ -15313,8 +15308,7 @@
                 "Cooldown": 0.25,
                 "Wither": 1.10,
                 "ShinyWither": 1.10,
-                "WitherTime": 1,
-                "DamageBoost": 1.30
+                "WitherTime": 1
             },
             {
                 "Price": 60000,
@@ -15323,8 +15317,7 @@
                 "Cooldown": 0.25,
                 "Wither": 1.10,
                 "ShinyWither": 1.10,
-                "WitherTime": 1,
-                "DamageBoost": 1.30
+                "WitherTime": 1
             },
             {
                 "Price": 70000,
@@ -15333,8 +15326,7 @@
                 "Cooldown": 0.25,
                 "Wither": 1.10,
                 "ShinyWither": 1.10,
-                "WitherTime": 1,
-                "DamageBoost": 1.30
+                "WitherTime": 1
             }
         ]
     },
