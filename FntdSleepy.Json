@@ -7440,27 +7440,27 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 150,
-                "Cooldown": 0.1,
+                "Cooldown": 0.1
             },
             {
                 "Price": 20000,
                 "Range": 22,
                 "Damage": 200,
-                "Cooldown": 0.1,
+                "Cooldown": 0.1
 
             },
             {
                 "Price": 25000,
                 "Range": 24,
                 "Damage": 350,
-                "Cooldown": 0.1,
+                "Cooldown": 0.1
 
             },
             {
                 "Price": 30000,
                 "Range": 25,
                 "Damage": 500,
-                "Cooldown": 0.1,
+                "Cooldown": 0.1
             }
         ]
     },
@@ -7513,6 +7513,8 @@
             }
         ]
     },
+
+
     "Molten Freddy": {
         "Type": "Explosion Burn",
         "Image": "rbxassetid://72496434217414",
