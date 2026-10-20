@@ -7275,28 +7275,28 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 550,
+                "Damage": 750,
                 "Unit": {"Haunted Soul": 1},
                 "Cooldown": 0.25
             },
             {
                 "Price": 20000,
                 "Range": 28,
-                "Damage": 800,
+                "Damage": 1000,
                 "Unit": {"Haunted Soul": 1},
                 "Cooldown": 0.25
             },
             {
                 "Price": 30000,
                 "Range": 31,
-                "Damage": 950,
+                "Damage": 1250,
                 "Unit": {"Haunted Soul": 1},
                 "Cooldown": 0.25
             },
             {
                 "Price": 40000,
                 "Range": 35,
-                "Damage": 1250,
+                "Damage": 1750,
                 "Unit": {"Haunted Soul": 1},
                 "Cooldown": 0.25
             }
@@ -7422,7 +7422,7 @@
     },
 
     "Rockstar Foxy": {
-        "Type": "AOE + Booster",
+        "Type": "AOE",
         "Image": "rbxassetid://94327478010876",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -7439,32 +7439,28 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 100,
+                "Damage": 150,
                 "Cooldown": 0.1,
-                "RangeBoost": 1.35
             },
             {
                 "Price": 20000,
                 "Range": 22,
-                "Damage": 150,
+                "Damage": 200,
                 "Cooldown": 0.1,
-                "RangeBoost": 1.35
 
             },
             {
                 "Price": 25000,
                 "Range": 24,
-                "Damage": 200,
+                "Damage": 350,
                 "Cooldown": 0.1,
-                "RangeBoost": 1.35
 
             },
             {
                 "Price": 30000,
                 "Range": 25,
-                "Damage": 250,
+                "Damage": 500,
                 "Cooldown": 0.1,
-                "RangeBoost": 1.35
             }
         ]
     },
@@ -7488,28 +7484,32 @@
                 "Range": 20,
                 "Damage": 10,
                 "Cooldown": 1,
-                "DamageBoost": 1.1
+                "DamageBoost": 1.15,
+                "RangeBoost": 1.15
             },
             {
                 "Price": 1000,
                 "Range": 20,
                 "Damage": 10,
                 "Cooldown": 1,
-                "DamageBoost": 1.15
+                "DamageBoost": 1.2,
+                "RangeBoost": 1.2
             },
             {
                 "Price": 1200,
                 "Range": 20,
                 "Damage": 10,
                 "Cooldown": 1,
-                "DamageBoost": 1.2
+                "DamageBoost": 1.2,
+                "RangeBoost": 1.2
             },
             {
                 "Price": 1400,
                 "Range": 20,
                 "Damage": 10,
                 "Cooldown": 1,
-                "DamageBoost": 1.27
+                "DamageBoost": 1.35,
+                "RangeBoost": 1.35
             }
         ]
     },
