@@ -7758,7 +7758,7 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1.15,
-                "RangeBoost": 1.7,
+                "RangeBoost": 1.5,
                 "Slow": 0.4,
                 "SlowTime": 5
             },
@@ -7767,7 +7767,7 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1.15,
-                "RangeBoost": 1.9,
+                "RangeBoost": 1.65,
                 "Slow": 0.4,
                 "SlowTime": 5
             },
@@ -7776,7 +7776,7 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1.15,
-                "RangeBoost": 2,
+                "RangeBoost": 1.75,
                 "Slow": 0.4,
                 "SlowTime": 5
             },
@@ -7785,7 +7785,7 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1.15,
-                "RangeBoost": 2.25,
+                "RangeBoost": 1.9,
                 "Slow": 0.4,
                 "SlowTime": 5
             }
