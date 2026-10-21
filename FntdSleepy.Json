@@ -15332,6 +15332,45 @@
             }
         ]
     },
+    "Rainbow Bear": {
+        "Type": "Rainbow",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Abyssal",
+        "PlacePrice": 1111,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 500000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1,
+                "Range": 12,
+                "Damage": 500000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1,
+                "Range": 14,
+                "Damage": 1000000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1,
+                "Range": 15,
+                "Damage": 5000000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "The Glitched": {
         "Type": "Nuke",
         "Image": "rbxassetid://103032877502508",
