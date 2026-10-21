@@ -15337,7 +15337,7 @@
         "Image": "rbxassetid://124995301645313",
         "Rarity": "Abyssal",
         "PlacePrice": 1111,
-        "Max": 1,
+        "Max": 2,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -15347,25 +15347,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
+                "Range": 55,
                 "Damage": 500000,
                 "Cooldown": 1
             },
             {
                 "Price": 1,
-                "Range": 12,
+                "Range": 555,
                 "Damage": 500000,
                 "Cooldown": 1
             },
             {
                 "Price": 1,
-                "Range": 14,
+                "Range": 555,
                 "Damage": 1000000,
                 "Cooldown": 1
             },
             {
                 "Price": 1,
-                "Range": 15,
+                "Range": 555,
                 "Damage": 5000000,
                 "Cooldown": 0.1
             }
