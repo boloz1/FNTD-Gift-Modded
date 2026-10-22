@@ -15335,8 +15335,8 @@
     "Rainbow Bear": {
         "Type": "Rainbow",
         "Image": "rbxassetid://124995301645313",
-        "Rarity": "Abyssal",
-        "PlacePrice": 1111,
+        "Rarity": "Apex",
+        "PlacePrice": 31111,
         "Max": 2,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -15347,27 +15347,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 55,
-                "Damage": 500000,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 50000,
+                "Cooldown": 2
             },
             {
-                "Price": 1,
-                "Range": 555,
-                "Damage": 500000,
-                "Cooldown": 1
+                "Price": 50000,
+                "Range": 25,
+                "Damage": 75900,
+                "Cooldown": 1.75
             },
             {
-                "Price": 1,
-                "Range": 555,
-                "Damage": 1000000,
-                "Cooldown": 1
+                "Price": 75000,
+                "Range": 25,
+                "Damage": 89650,
+                "Cooldown": 1.5
             },
             {
-                "Price": 1,
-                "Range": 555,
-                "Damage": 5000000,
-                "Cooldown": 0.1
+                "Price": 90000,
+                "Range": 35,
+                "Damage": 111111,
+                "Cooldown": 1.25
             }
         ]
     },
