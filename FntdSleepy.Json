@@ -15371,6 +15371,51 @@
             }
         ]
     },
+    "Chipper": {
+        "Type": "AOE",
+        "Image": "rbxassetid://124094924656474",
+        "Rarity": "Nightmare",
+        "PlacePrice": 13425,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 25000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 25000,
+                "Range": 15,
+                "Damage": 30000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 35000,
+                "Range": 17,
+                "Damage": 40000,
+                "Cooldown": 1.85
+            },
+            {
+                "Price": 50000,
+                "Range": 17,
+                "Damage": 45000,
+                "Cooldown": 1.85
+            },
+            {
+                "Price": 75000,
+                "Range": 20,
+                "Damage": 50000,
+                "Cooldown": 1.75
+            }
+        ]
+    },
     "The Glitched": {
         "Type": "Nuke",
         "Image": "rbxassetid://103032877502508",
