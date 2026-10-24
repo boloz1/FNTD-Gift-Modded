@@ -11007,6 +11007,45 @@
             }
         ]
     },
+   "8-Bit Purple Guy": {
+        "Type": "Single",
+        "Image": "rbxassetid://130015253339837",
+        "Rarity": "Nightmare",
+        "PlacePrice": 625,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 550,
+                "Range": 22,
+                "Damage": 1000,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 750,
+                "Range": 22,
+                "Damage": 1250,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 1000,
+                "Range": 23,
+                "Damage": 1350,
+                "Cooldown": 0.2
+            }
+        ]
+    },
     "Candy Cadet": {
         "Type": "Cooldown Boost",
         "Image": "rbxassetid://104356297194309",
@@ -14379,7 +14418,7 @@
         "Type": "Slash + Passive",
         "Image": "rbxassetid://98510603589544",
         "Rarity": "Nightmare",
-        "PlacePrice": 99999,
+        "PlacePrice": 33333,
         "Offset": 0.7,
         "Max": 1,
         "Passive": {"Name": "Software Malfunction", "Description": "Enemies/Imps/Bosses that reach exits proc a 4 second portal that sends enemies back to the entrace they came from (60 second Global Cooldown). Gains a +25% damage bonus if other Glitched units are on the same team."},
@@ -14392,27 +14431,27 @@
         "Upgrades": [
             {
                 "Price": 0,
+                "Range": 23,
+                "Damage": 10000,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 44444,
+                "Range": 24,
+                "Damage": 15000,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 55555,
                 "Range": 25,
-                "Damage": 65000,
-                "Cooldown": 5
+                "Damage": 17500,
+                "Cooldown": 1.8
             },
             {
-                "Price": 77777,
-                "Range": 28,
-                "Damage": 88000,
-                "Cooldown": 4.6
-            },
-            {
-                "Price": 88888,
-                "Range": 35,
-                "Damage": 112000,
-                "Cooldown": 4.3
-            },
-            {
-                "Price": 99999,
-                "Range": 35,
-                "Damage": 137000,
-                "Cooldown": 4
+                "Price": 67777,
+                "Range": 27,
+                "Damage": 20000,
+                "Cooldown": 1.5
             }
         ]
     },
@@ -15451,6 +15490,44 @@
                 "Range": 23,
                 "Damage": 1000,
                 "Cooldown": 0.2
+            }
+        ]
+    },
+    "Redbear": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://112041333443874",
+        "Rarity": "Mythic",
+        "PlacePrice": 1250,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 1000,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 15000,
+                "Range": 21,
+                "Damage": 1500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 20000,
+                "Range": 21,
+                "Damage": 2500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 30000,
+                "Range": 24,
+                "Damage": 2000,
+                "Cooldown": 1.25
             }
         ]
     },
