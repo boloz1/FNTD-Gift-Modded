@@ -1686,8 +1686,8 @@
         "Type": "Farm",
         "Image": "rbxassetid://18363529003",
         "Rarity": "Epic",
-        "PlacePrice": 1000,
-        "Max": 3,
+        "PlacePrice": 2500,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
