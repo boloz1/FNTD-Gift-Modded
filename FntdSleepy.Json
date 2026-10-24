@@ -15376,7 +15376,7 @@
         "Image": "rbxassetid://124094924656474",
         "Rarity": "Nightmare",
         "PlacePrice": 13525,
-        "Max": 1,
+        "Max": 2,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -15413,6 +15413,89 @@
                 "Range": 20,
                 "Damage": 50000,
                 "Cooldown": 1.75
+            }
+        ]
+    },
+    "White Rabbit": {
+        "Type": "Splash",
+        "Image": "rbxassetid://135908699295859",
+        "Rarity": "Secret",
+        "PlacePrice": 5555,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 500,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 15000,
+                "Range": 15,
+                "Damage": 750,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 20000,
+                "Range": 20,
+                "Damage": 900,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 30000,
+                "Range": 23,
+                "Damage": 1000,
+                "Cooldown": 0.2
+            }
+        ]
+    },
+    "Chipper's Revenge": {
+        "Type": "AOE",
+        "Image": "rbxassetid://136325838909720",
+        "Rarity": "Forgotten",
+        "PlacePrice": 23350,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 30000,
+                "Cooldown": 1.85
+            },
+            {
+                "Price": 45000,
+                "Range": 17,
+                "Damage": 50000,
+                "Cooldown": 1.85
+            },
+            {
+                "Price": 60000,
+                "Range": 19,
+                "Damage": 60000,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 75000,
+                "Range": 23,
+                "Damage": 80000,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 100000,
+                "Range": 25,
+                "Damage": 100000,
+                "Cooldown": 1.5
             }
         ]
     },
