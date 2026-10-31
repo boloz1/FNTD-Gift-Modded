@@ -10703,7 +10703,7 @@
         "Type": "Nuke + Passive",
         "Image": "rbxassetid://74581680391825",
         "Rarity": "Abyssal",
-        "PlacePrice": 1,
+        "PlacePrice": 67,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +25% more damage for 3 seconds and apply 10% Burn over 1 second. Apollo Moon now does an AOE attack every 8 seconds equal to its damage doing 25% Wither for 3 seconds."},
@@ -10716,7 +10716,7 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 100000,
+                "Damage": 6777777777777,
                 "Cooldown": 0.001,
                 "Burn": 9000,
                 "BurnTime": 1,
@@ -10727,7 +10727,7 @@
             {
                 "Price": 60000,
                 "Range": 32,
-                "Damage": 250000,
+                "Damage": 6777777777777,
                 "Cooldown": 0.001,
                 "Burn": 12000,
                 "BurnTime": 1,
@@ -10738,7 +10738,7 @@
             {
                 "Price": 80000,
                 "Range": 35,
-                "Damage": 500000,
+                "Damage": 6777777777777,
                 "Cooldown": 0.001,
                 "Burn": 15000,
                 "BurnTime": 1,
@@ -10749,7 +10749,7 @@
             {
                 "Price": 100000,
                 "Range": 40,
-                "Damage": 1000000,
+                "Damage": 6777777777777,
                 "Cooldown": 0.001,
                 "Burn": 18000,
                 "BurnTime": 1,
