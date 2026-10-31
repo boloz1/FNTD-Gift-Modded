@@ -10705,7 +10705,7 @@
         "Rarity": "Abyssal",
         "PlacePrice": 67,
         "Offset": 0,
-        "Max": 1,
+        "Max": 67,
         "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +25% more damage for 3 seconds and apply 10% Burn over 1 second. Apollo Moon now does an AOE attack every 8 seconds equal to its damage doing 25% Wither for 3 seconds."},
         "hitboxOffset": {
             "X": 0,
