@@ -10517,25 +10517,25 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 50000,
+                "Damage": 72000,
                 "Cooldown": 4
             },
             {
                 "Price": 60000,
                 "Range": 32,
-                "Damage": 58000,
+                "Damage": 84000,
                 "Cooldown": 4
             },
             {
                 "Price": 70000,
                 "Range": 36,
-                "Damage": 66000,
+                "Damage": 96000,
                 "Cooldown": 4
             },
             {
                 "Price": 80000,
                 "Range": 40,
-                "Damage": 72000,
+                "Damage": 112000,
                 "Cooldown": 3
             }
         ]
@@ -10700,7 +10700,7 @@
         ]
     },
     "Old Apollo's Moon": {
-        "Type": "Nuke + Passive",
+        "Type": "BAN IF YOU HAVE THIS",
         "Image": "rbxassetid://74581680391825",
         "Rarity": "Abyssal",
         "PlacePrice": 67,
