@@ -15447,25 +15447,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 13111,
+                "Damage": 23111,
                 "Cooldown": 2
             },
             {
                 "Price": 50000,
                 "Range": 25,
-                "Damage": 15111,
+                "Damage": 35111,
                 "Cooldown": 1.9
             },
             {
                 "Price": 75000,
                 "Range": 25,
-                "Damage": 31111,
+                "Damage": 41111,
                 "Cooldown": 1.75
             },
             {
                 "Price": 90000,
                 "Range": 35,
-                "Damage": 41111,
+                "Damage": 61111,
                 "Cooldown": 1.75
             }
         ]
