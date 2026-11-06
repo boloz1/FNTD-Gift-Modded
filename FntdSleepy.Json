@@ -6460,10 +6460,10 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 12000,
+                "Damage": 3000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "WalkSpeed": 9,
-                "Health": 3000,
+                "Health": 450000,
                 "Cooldown": 2,
                 "Wither": 1.10,
                 "ShinyWither": 1.10,
