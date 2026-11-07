@@ -15525,6 +15525,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 13525,
         "Max": 2,
+		"Passive": {"Name": "Axe in the hand", "Description": "Instantly kills all enemies after 3 attacks."},
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -15646,6 +15647,7 @@
         "Rarity": "Forgotten",
         "PlacePrice": 23250,
         "Max": 1,
+        "Passive": {"Name": "Axe in the hand", "Description": "Instantly kills all enemies after 3 attacks."},
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
