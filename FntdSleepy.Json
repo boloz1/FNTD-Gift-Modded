@@ -15685,7 +15685,7 @@
         "Rarity": "Forgotten",
         "PlacePrice": 23250,
         "Max": 1,
-        "Passive": {"Name": "Axe in the hand", "Description": "Instantly kills all enemies after 3 attacks."},
+        "Passive": {"Name": "Broken Axe", "Description": "Every 5 attacks has 25% of killing all enemies in the map (Not bosses.)"},
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
