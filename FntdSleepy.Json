@@ -15521,10 +15521,10 @@
     },
     "Triple T": {
         "Type": "Brainroted",
-        "Image": "rbxassetid://95422957105169",
-        "Rarity": "Abyssal",
+        "Image": "rbxassetid://75789794016578",
+        "Rarity": "Brainroted",
         "PlacePrice": 676,
-        "Max": 1,
+        "Max": 5,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -15536,25 +15536,25 @@
                 "Price": 0,
                 "Range": 21,
                 "Damage": 300,
-                "Cooldown": 0.5
+                "Cooldown": 2
             },
             {
                 "Price": 50000,
                 "Range": 23,
                 "Damage": 450,
-                "Cooldown": 0.5
+                "Cooldown": 2
             },
             {
                 "Price": 75000,
                 "Range": 23,
                 "Damage": 550,
-                "Cooldown": 0.45
+                "Cooldown": 2
             },
             {
                 "Price": 90000,
                 "Range": 25,
                 "Damage": 676,
-                "Cooldown": 0.3
+                "Cooldown": 2
             }
         ]
     },
