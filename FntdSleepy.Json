@@ -12977,45 +12977,6 @@
             }
         ]
     },
-    "Six": {
-        "Type": "six",
-        "Image": "rbxassetid://118859727135084",
-        "Rarity": "Brainroted",
-        "PlacePrice": 6767,
-        "Offset": 0.5,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 800,
-                "Cooldown": 1.2
-            },
-                        {
-                "Price": 650,
-                "Range": 30,
-                "Damage": 900,
-                "Cooldown": 1.1
-            },
-                        {
-                "Price": 775,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1.1
-            },
-                        {
-                "Price": 900,
-                "Range": 25,
-                "Damage": 1200,
-                "Cooldown": 1
-            }
-        ]
-    },
     "Sabertooth Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://138570611785526",
