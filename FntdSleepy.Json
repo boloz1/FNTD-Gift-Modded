@@ -12917,6 +12917,66 @@
             }
         ]
     },
+    "NuclearTrap": {
+        "Type": "Pierce Spread",
+        "Image": "rbxassetid://78251576210470",
+        "Rarity": "Apex",
+        "PlacePrice": 40000,
+        "Offset": 0.5,
+        "Max": 1,
+        "Passive": {"Name": "Funny Credits", "Description": "Credits to Zamasu for model and idea!"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 70000,
+                "Cooldown": 2.4,
+                "Burn": 85000,
+                "BurnTime": 1,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 2.5
+            },
+            {
+                "Price": 70000,
+                "Range": 34,
+                "Damage": 100000,
+                "Cooldown": 2.4,
+                "Burn": 21250,
+                "BurnTime": 1,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 2.5
+            },
+            {
+                "Price": 90000,
+                "Range": 37,
+                "Damage": 120000,
+                "Cooldown": 2.3,
+                "Burn": 25000,
+                "BurnTime": 1,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 2.5
+            },
+            {
+                "Price": 120000,
+                "Range": 40,
+                "Damage": 140000,
+                "Cooldown": 2.2,
+                "Burn": 30000,
+                "BurnTime": 1,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 2.5
+            }
+        ]
+    },
     "Sabertooth Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://138570611785526",
