@@ -15618,12 +15618,12 @@
             }
         ]
     },
-    "Triple T": {
-        "Type": "Brainroted",
-        "Image": "rbxassetid://75789794016578",
-        "Rarity": "Brainroted",
-        "PlacePrice": 676,
-        "Max": 5,
+    "Dev Duo": {
+        "Type": "Stun",
+        "Image": "rbxassestid://124605684705193",
+        "Rarity": "Collab",
+        "PlacePrice": 1500000,
+        "Max": 1,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -15633,27 +15633,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 21,
-                "Damage": 300,
-                "Cooldown": 2
+                "Range": 30,
+                "Damage": 30000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
-                "Price": 50000,
-                "Range": 23,
-                "Damage": 450,
-                "Cooldown": 2
+                "Price": 1000000,
+                "Range": 33,
+                "Damage": 35000,
+                "Cooldown": 1.5,
+                "Slow": 0,
+                "SlowTime": 0.75
             },
             {
-                "Price": 75000,
-                "Range": 23,
-                "Damage": 550,
-                "Cooldown": 2
+                "Price": 1200000,
+                "Range": 32,
+                "Damage": 40000,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 1
             },
             {
-                "Price": 90000,
-                "Range": 25,
-                "Damage": 676,
-                "Cooldown": 2
+                "Price": 2000000,
+                "Range": 35,
+                "Damage": 55000,
+                "Cooldown": 0.7,
+                "Slow": 0,
+                "SlowTime": 1.25
             }
         ]
     },
