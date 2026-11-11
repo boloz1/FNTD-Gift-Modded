@@ -15618,45 +15618,6 @@
             }
         ]
     },
-    "Triple T": {
-        "Type": "Rainbow",
-        "Image": "rbxassetid://124995301645313",
-        "Rarity": "Apex",
-        "PlacePrice": 31111,
-        "Max": 2,
-        "Offset": 0.3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 23111,
-                "Cooldown": 2.5
-            },
-            {
-                "Price": 50000,
-                "Range": 25,
-                "Damage": 35111,
-                "Cooldown": 2.5
-            },
-            {
-                "Price": 75000,
-                "Range": 25,
-                "Damage": 41111,
-                "Cooldown": 2.3
-            },
-            {
-                "Price": 90000,
-                "Range": 35,
-                "Damage": 61111,
-                "Cooldown": 2.3
-            }
-        ]
-    },
     "Dev Duo": {
         "Type": "Stun",
         "Image": "rbxassestid://124605684705193",
