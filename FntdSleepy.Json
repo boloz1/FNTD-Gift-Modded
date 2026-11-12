@@ -15618,6 +15618,54 @@
             }
         ]
     },
+"Lawyer Phone Guy": {
+    "Type": "Damage + Range Boost",
+    "Image": "rbxassetid://111451473380531",
+    "Rarity": "Nightmare",
+    "PlacePrice": 30000,
+    "Offset": 0,
+    "Max": 1,
+    "NoEnemyAttack": true,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 25,
+            "Damage": 0,
+            "Cooldown": 1,
+            "DamageBoost": 1.15,
+            "RangeBoost": 1.05
+        },
+        {
+            "Price": 15000,
+            "Range": 27,
+            "Damage": 0,
+            "Cooldown": 1,
+            "DamageBoost": 1.20,
+            "RangeBoost": 1.08
+        },
+        {
+            "Price": 25000,
+            "Range": 29,
+            "Damage": 0,
+            "Cooldown": 1,
+            "DamageBoost": 1.25,
+            "RangeBoost": 1.12
+        },
+        {
+            "Price": 40000,
+            "Range": 32,
+            "Damage": 0,
+            "Cooldown": 1,
+            "DamageBoost": 1.35,
+            "RangeBoost": 1.20
+        	}
+    	]
+	},
     "Dev Duo": {
         "Type": "Stun",
         "Image": "rbxassestid://124605684705193",
