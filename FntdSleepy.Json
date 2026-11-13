@@ -38,6 +38,51 @@
             }
         ]
     },
+    "Jason Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://135922410283405",
+        "Rarity": "Nightmare",
+        "PlacePrice": 30000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 12000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 25000,
+                "Cooldown": 4.75
+            },
+            {
+                "Price": 25000,
+                "Range": 24,
+                "Damage": 40000,
+                "Cooldown": 4.5
+            },
+            {
+                "Price": 35000,
+                "Range": 27,
+                "Damage": 60000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 85000,
+                "Cooldown": 3.5
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
@@ -15618,51 +15663,6 @@
             }
         ]
     },
-    "Jason Freddy": {
-    "Type": "Single",
-    "Image": "rbxassetid://135922410283405,
-    "Rarity": "Nightmare",
-    "PlacePrice": 30000,
-    "Max": 2,
-    "Offset": 0,
-    "hitboxOffset": {
-        "X": 0,
-        "Y": 0,
-        "Z": 0
-    },
-    "Upgrades": [
-        {
-            "Price": 0,
-            "Range": 20,
-            "Damage": 12000,
-            "Cooldown": 5
-        },
-        {
-            "Price": 15000,
-            "Range": 22,
-            "Damage": 25000,
-            "Cooldown": 4.75
-        },
-        {
-            "Price": 25000,
-            "Range": 24,
-            "Damage": 40000,
-            "Cooldown": 4.5
-        },
-        {
-            "Price": 35000,
-            "Range": 27,
-            "Damage": 60000,
-            "Cooldown": 4
-        },
-        {
-            "Price": 50000,
-            "Range": 30,
-            "Damage": 85000,
-            "Cooldown": 3.5
-        	}
-    	]
-	},
 "Lawyer Phone Guy": {
     "Type": "Damage + Range Boost",
     "Image": "rbxassetid://111451473380531",
